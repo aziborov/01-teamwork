@@ -1,0 +1,56 @@
+@import url('../vendor/normalize.css');
+
+@import url('../vendor/fonts/fonts.css');
+
+@import url('../blocks/page/page.css');
+
+@import url('../blocks/footer/footer.css');
+
+@import url('../blocks/intro/intro.css');
+@import url('../blocks/intro/__image/intro__image.css');
+@import url('../blocks/intro/__text-container/intro__text-container.css');
+@import url('../blocks/intro/__header/intro__header.css');
+
+@import url('../blocks/label/label.css');
+
+@import url('../blocks/navbar/navbar.css');
+@import url('../blocks/navbar/__link/navbar__link.css');
+@import url('../blocks/navbar/__item/navbar__item.css');
+@import url('../blocks/navbar/__list/navbar__list.css');
+
+@import url('../blocks/navbar/__item/_position-right/navbar__item_position-right.css');
+
+@import url('../blocks/page/page.css');
+
+@import url('../blocks/place/place.css');
+@import url('../blocks/place/__header/place__header.css');
+@import url('../blocks/place/__text-container/place__text-container.css');
+@import url('../blocks/place/__text/place__text.css');
+@import url('../blocks/place/__image/place__image.css');
+
+@import url('../blocks/place/_order/place_order_back.css');
+
+@import url('../blocks/places/places.css');
+
+@import url('../blocks/quote/quote.css');
+@import url('../blocks/quote/__text/quote__text.css');
+@import url('../blocks/quote/__header/quote__header.css');
+
+@import url('../blocks/quotes/quotes.css');
+@import url('../blocks/quotes/__header/quotes__header.css');
+@import url('../blocks/quotes/__list/quotes__list.css');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

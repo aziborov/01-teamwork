@@ -1,0 +1,17 @@
+.quotes__list {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 0 10px 0 0;
+}
+
+@media screen and (min-width: 768px) {
+
+    .quotes__list {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        margin: 0 10px 0 0;
+    }
+
+}

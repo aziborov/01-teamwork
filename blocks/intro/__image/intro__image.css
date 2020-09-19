@@ -1,0 +1,16 @@
+.intro__image {
+    margin: auto;
+    width: 50%;
+}
+
+@media screen and (min-width: 768px) {
+
+    .intro__image {
+        padding: 10px 110px 92px 94px;
+        width: 50%;
+        box-sizing: border-box;
+    }
+
+
+
+}

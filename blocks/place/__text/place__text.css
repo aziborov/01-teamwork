@@ -1,0 +1,16 @@
+.place__text {
+    flex-grow: 1;
+    font-size: 9px;
+    margin: 15px 0 0 0;
+    line-height: 14px;
+    padding: 0;
+    max-width: 260px;
+}
+
+@media screen and (min-width: 768px) {
+
+    .place__text {
+        /*max-width: 260px;*/
+    }
+
+}

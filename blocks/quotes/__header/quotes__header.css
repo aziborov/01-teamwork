@@ -1,0 +1,16 @@
+.quotes__header {
+    margin: 20px 0 74px 0;
+    line-height: 31px;
+    padding: 0;
+}
+
+@media screen and (min-width: 768px) {
+
+    .quotes__header {
+        margin: 20px 0 80px 0;
+        max-width: 300px;
+        line-height: 31px;
+        padding: 0;
+    }
+
+}

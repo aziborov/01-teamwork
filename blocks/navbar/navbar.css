@@ -1,0 +1,12 @@
+.navbar {
+    margin: 35px 39px 35px 39px;
+}
+
+@media screen and (min-width: 768px) {
+
+    .navbar {
+        margin: 51px 39px;
+    }
+
+
+}

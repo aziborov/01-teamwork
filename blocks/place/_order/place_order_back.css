@@ -1,0 +1,4 @@
+.place_order_back {
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}

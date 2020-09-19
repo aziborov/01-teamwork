@@ -1,0 +1,16 @@
+.intro__text-container {
+    display: flex;
+    padding: 51px;
+    flex-direction: column;
+}
+
+@media screen and (min-width: 768px) {
+
+    .intro__text-container {
+        display: flex;
+        padding: 10% 0 0 51px;
+        width: 50%;
+        flex-direction: column;
+    }
+
+}
