@@ -10,7 +10,12 @@
         width: 50%;
         box-sizing: border-box;
     }
+}
 
+@media screen and (min-width: 1600px) {
 
+    .intro__image {
+        padding: 45px 175px 148px 144px;
 
+    }
 }

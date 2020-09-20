@@ -18,14 +18,17 @@
 @import url('../blocks/navbar/__item/navbar__item.css');
 @import url('../blocks/navbar/__list/navbar__list.css');
 
+@import url('../blocks/navbar/__hamburger/navbar__hamburger.css');
+@import url('../blocks/navbar/__hamburger-item/navbar__hamburger-item.css');
+
 @import url('../blocks/navbar/__item/_position-right/navbar__item_position-right.css');
 
 @import url('../blocks/page/page.css');
 
 @import url('../blocks/place/place.css');
 @import url('../blocks/place/__header/place__header.css');
-@import url('../blocks/place/__text-container/place__text-container.css');
 @import url('../blocks/place/__text/place__text.css');
+@import url('../blocks/place/__text-container/place__text-container.css');
 @import url('../blocks/place/__image/place__image.css');
 
 @import url('../blocks/place/_order/place_order_back.css');

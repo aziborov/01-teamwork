@@ -18,3 +18,12 @@
 
     text-rendering: optimizeLegibility;
 }
+
+
+@media screen and (min-width: 1600px) {
+
+    .page {
+        max-width: 1440px;
+    }
+
+}

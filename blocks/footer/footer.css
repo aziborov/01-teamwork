@@ -20,3 +20,13 @@
     }
 
 }
+
+@media screen and (min-width: 1600px) {
+
+    .footer {
+        padding: 325px 0 330px 0;
+        font-size: 38px;
+        font-weight: 500;
+    }
+
+}

@@ -1,4 +1,13 @@
 .navbar__item_position-right {
-    flex-grow: 20;
-    text-align: right;
+    margin-top: 25px;
+}
+
+@media screen and (min-width: 768px) {
+
+    .navbar__item_position-right {
+        margin-top: 0;
+        flex-grow: 20;
+        text-align: right;
+    }
+
 }

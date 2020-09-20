@@ -10,3 +10,12 @@
 
 
 }
+
+@media screen and (min-width: 1600px) {
+
+    .quotes {
+        margin: 140px 0 163px 80px;
+    }
+
+
+}

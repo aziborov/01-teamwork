@@ -14,3 +14,13 @@
     }
 
 }
+
+@media screen and (min-width: 1600px) {
+
+    .place__text {
+        font-size: 14px;
+        max-width: 399px;
+        line-height: 23px;
+    }
+
+}
